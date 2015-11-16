@@ -24,7 +24,7 @@ Jumping into a new project can be hard and intimidating. This document is design
 - how/when to share link to material
 
 ### Where can I ask for help? 
-- Gitter Room:
+- Gitter Room: https://gitter.im/mozillascience/open-data-training
 - Twitter?
 - Email?
 
