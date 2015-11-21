@@ -2,16 +2,16 @@
 
 Jumping into a new project can be hard and intimidating. This document is designed to help you understand the community and how to interact.
 
-## What is this repository about?
+### What is this repository about?
 This repository is designed as a place for training ideas, curriculum and teaching resources related to open data.
 
-## How do I join the community?
+### How do I join the community?
 - Watch this repository.
 - Follow the Mozilla Science Lab blog and Twitter feed (links).
 - Join a Mozilla Study Group or start your own (link).
 - Participate in a Mozilla event. (events calendar?)
 
-## What is the Code of Conduct?
+### What is the Code of Conduct?
 - Expectations
 - Encouragement
 - What they need to know about this community in particular
