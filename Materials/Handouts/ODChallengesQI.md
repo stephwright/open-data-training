@@ -45,3 +45,4 @@ Start small with one or two steps, you don’t have to do it all at once.  Take 
 * Molloy JC (2011) The Open Knowledge Foundation: Open Data Means Better Science. PLoS Biol 9(12): e1001195. [doi:10.1371/journal.pbio.1001195] (http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001195)  
 * [Why Manage Your Data?] (http://d7.library.gatech.edu/research-data/home) *(Georgia Tech Library)*  
 * [Who’s Afraid of Open Data?] (http://deevybee.blogspot.com/2015/11/whos-afraid-of-open-data.html) *(Bishop Blog)*  
+* [Closed Data... Excuses, Excuses] (http://iassistdata.org/blog/share-your-story-case-studies-data-reuse) *(Carly Strasser's Blog)*
