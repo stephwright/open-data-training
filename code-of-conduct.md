@@ -82,6 +82,6 @@ This Code of Conduct is distributed under a Creative Commons Attribution-ShareAl
 
 It is derived from the Citizen Code of Conduct at http://citizencodeofconduct.org/.
 
-Portions of text dervied from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy, Mozilla Science Lab Code of Conduct and Sidewinder Code of Conduct.
+Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy, Mozilla Science Lab Code of Conduct and Sidewinder Code of Conduct.
 
 Posted March 21, 2016
