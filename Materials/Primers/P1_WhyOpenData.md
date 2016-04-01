@@ -1,10 +1,11 @@
 # Why Open Data: A Primer
-## Hello
+## Hello.
 
 <*insert interactive here: What three words would you use to describe open data?*>
 
 You’re probably here because you’ve heard a lot about open data recently and you want to know more. This primer is a very quick introduction to the topic. We’ll be talking about the kind of data collected or observed by researchers, governments, and other groups to study problems or questions in fields as diverse as astrophysics, urban planning, and linguistics. This primer was produced by Mozilla Science Lab, a program dedicated encouraging the use of open source practices and web technologies to do better science. 
-## Let's talk open data
+
+## Let's talk open data.
 By data we mean numbers, but also geospatial coordinates, text, images, multimedia items, and other types of information that can be used to answer questions or solve problems. We may think of data as being collected by researchers and scientists-- for example, information on the spread of a population of ladybugs in a particular region, or the wavelengths of light emitted by a particular star. But data is also collected by governments, who may be interested in the number and location of potholes on a city street, or the geospatial pattern of new cases in an outbreak of the flu. Corporations and businesses collect data, too. 
 
 **All of this data is potentially useful and powerful. “Opening” data means maximizing that potential.**
@@ -18,8 +19,8 @@ The Open Knowledge Foundation, an organization dedicated to bringing “openness
 
 But why bother taking your carefully collected, hard-earned data, and setting it free on the internet, for strangers to reuse, remix, and redistribute? There are lots of reasons-- we explore just a few of those next. 
 
-## Why Open Data?
-Open Data helps to: 
+## Why open data?
+Open data helps to: 
 
 **1. Maintain Accountability**  
 *When data is open, the results or findings of that data can be more easily verified, increasing public trust in research institutions and governments.*  
@@ -41,7 +42,7 @@ Open Data helps to:
 
 What are your reasons for opening your data? Let us know! <*insert link*>
 
-## Open Data IRL
+## Open data IRL
 Open data sounds great on paper. But what does deciding to share-- or deciding not to share-- your data look like in real life? Here’s a recent example of open data in action.
 
 When an outbreak of the previously rare Zika Virus Disease emerged in South America in early 2015, it was clear that the threat to public health was--and remains--urgent. Researchers in David O’Connor’s lab at the University of Wisconsin, Madison decided that the epidemic, which may lead to devastating birth defects in babies born to infected women, called for a new level of collaboration. He decided to release real-time, day by day results of his studies on the effects of Zika on Macaque monkeys, rather that waiting months (or years) for the results of his work to be published in a traditional journal. By releasing both his data and findings online, O’Connor invited international collaboration. Researchers from around the world downloaded and reviewed the data, made comments, provided advice, and even offered to lend expertise and equipment to run tests that O’Connor’s lab wasn’t equipped to perform. Studies are still underway, but it’s likely that opening this data-- and creating connections among researchers globally--  will aid efforts to understand and combat Zika. See what data sharing looks like in real life by visiting O’Connor’s [Zika Open-Research Portal] (https://zika.labkey.com/project/home/begin.view).  To read more, see the story covered in [Nature] (http://www.nature.com/news/zika-researchers-release-real-time-data-on-viral-infection-study-in-monkeys-1.19438), [The Economist] (http://www.economist.com/news/science-and-technology/21694990-old-fashioned-ways-reporting-new-discoveries-are-holding-back-medical-research), and on [National Public Radio] (http://www.npr.org/sections/health-shots/2016/03/08/469653715/scientists-report-in-real-time-on-challenging-zika-research) in the USA. 
@@ -94,7 +95,7 @@ We’re here to help! And you don’t have to do all at once. There are lots of 
 
 For 6 more challenges to open data and snappy and convincing responses to each of them, [click here] (https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md). These are great talking points to use when telling your colleagues, friends, and loved ones about open data. 
 
-## Why does Mozilla <3 Open Data?
+## Why does Mozilla <3 open data?
 
 The idea of open data is nothing new, but has gained popularity with the rise of the World Wide Web. The easily accessible, information-rich web is home to countless online communities where people from around the world freely and asynchronously share and discuss content and ideas. This technology has already transformed nearly every sphere of our lives… and it has the potential to do much more. 
 
