@@ -3,17 +3,25 @@
 Jumping into a new project can be hard and intimidating. This document is designed to help you understand the community and how to interact.
 
 ### What is this repository about?  
-This repository is designed to be a central portal for access to information about and resources and curricular materials for the Mozilla Science Lab open data training.
+*Open data is data that is made freely and easily available to anyone to use, re-use and distribute.*
 
-### How do I join the community?
-Submit an issue with your suggestion for a resource to be included in the repository.  
+Mozilla Science Lab is dedicated to encouraging the use of open practices and web technologies to do better science.  We believe open data is essential to maximizing the potential of research. This repository is designed to be a central portal for access to resources and curricular materials around open data.
+
+### How do I contribute?
+1. Join our conversation through [![Gitter](https://badges.gitter.im/mozillascience/open-data-training.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+2. Submit an [issue] (https://github.com/mozillascience/open-data-training/issues) with your correction for an error in the documents, a question about the materials, or a suggestion for a resource to be included in the repository.
+  * Go to [Issues](https://github.com/mozillascience/open-data-training/issues) and click the green "New Issue" button.
+  * If you are new to the repository, click on issues w/ the yellow "1st issues" label.  These are issues we've identified as good things to work on as your first collaboration with the repository.
+  * If you are submitting a suggestion, label the issue w/ the pink "Suggestion" label
+  * If you are submitting a question, label the issue w/ the pink "Question" label
+  * If you are submitting a correction, label the issue w/ the red "bug" label
+3. ![Fork icon](/assets/images/Fork.gif)[Fork] (https://help.github.com/articles/fork-a-repo/) this repository to suggest changes to our repository or as a starting point to make your own.
 
 ### What is the Code of Conduct?
 Mozilla Study Groups are for everyone - we abide by a [set of rules] (https://www.mozillascience.org/code-of-conduct) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 
-### How do I report a bug?
-Submit an issue and label with the red bug label  
-
 ### Where can I ask for help? 
-- Gitter Room: https://gitter.im/mozillascience/open-data-training [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
+* Go to the Gitter Room: https://gitter.im/mozillascience/open-data-training [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+We are a friendly lot and it is a safe place to ask questions and get advice.
+* Tweet to us [@MozillaScience](https://twitter.com/MozillaScience)
 
