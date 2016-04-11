@@ -3,8 +3,8 @@
 Jumping into a new project can be hard and intimidating. This document is designed to help you understand the community and how to interact.
 
 ### What is this repository about?  
-*Open data is data that is made freely and easily available to anyone to use, re-use and distribute.*  
-<sub>(Definition adapted from [Open Knowledge](http://opendatahandbook.org/guide/en/what-is-open-data/))</sub>
+**Open data is data that is made freely and easily available to anyone to use, re-use and distribute.**  
+<sub>*(Definition adapted from [Open Knowledge](http://opendatahandbook.org/guide/en/what-is-open-data/))*</sub>
 
 Mozilla Science Lab is dedicated to encouraging the use of open practices and web technologies to do better science.  We believe open data is essential to maximizing the potential of research. This repository is designed to be a central portal for access to resources and curricular materials around open data.
 
