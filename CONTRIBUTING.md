@@ -22,7 +22,7 @@ Mozilla Science Lab is dedicated to encouraging the use of open practices and we
 Mozilla Study Groups are for everyone - we abide by a [set of rules] (https://www.mozillascience.org/code-of-conduct) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 
 ### Where can I ask for help? 
-* Go to the Gitter Room: https://gitter.im/mozillascience/open-data-training [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+* Go to the Gitter Room: https://gitter.im/mozillascience/open-data-training [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 We are a friendly lot and it is a safe place to ask questions and get advice.  
 * Tweet to us [@MozillaScience](https://twitter.com/MozillaScience)
 
