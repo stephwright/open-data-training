@@ -10,7 +10,9 @@ Here's what's been developed so far.
 * [Exercises] (/Materials/Exercises/)
 * [Handouts] (/Materials/Handouts/)
 
-If you'd like to help out, check out the [CONTRIBUTING] (CONTRIBUTING.md) file.
+Feel free to fork, hack, use, do whatever you'd like with these. (See License information below.)
+
+If you'd like to help out in development of new or existing open data training resources, check out the [CONTRIBUTING] (CONTRIBUTING.md) file.
 
 If you are looking for more information on Mozilla Science Lab, please see our [website](https://www.mozillascience.org/).
 
