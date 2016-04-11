@@ -12,7 +12,8 @@ Mozilla Science Lab is dedicated to encouraging the use of open practices and we
 1. Join our conversation through [![Gitter](https://badges.gitter.im/mozillascience/open-data-training.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 2. Submit an [issue] (https://github.com/mozillascience/open-data-training/issues) with your correction for an error in the documents, a question about the materials, or a suggestion for a resource to be included in the repository.
   * Go to [Issues](https://github.com/mozillascience/open-data-training/issues) and click the green "New Issue" button.
-  * If you are new to the repository, click on issues w/ the ![1st issues](/assets/images/1stIssues.png) label.  These are issues we've identified as good things to work on as your first collaboration with the repository.
+  * If you are new to the repository, click on issues w/ the ![1st issues](/assets/images/1stIssues.png) label.  
+    These are issues we've identified as good things to work on as your first collaboration with the repository.
   * If you are submitting a suggestion, label the issue w/ the ![suggestions](/assets/images/suggestion.png)  label
   * If you are submitting a question, label the issue w/ the ![question](/assets/images/question.png)  label
   * If you are submitting a correction, label the issue w/ the ![bug](/assets/images/bug.png)  label
