@@ -1,4 +1,4 @@
-![Research Fox](/images/ResearchFox.svg)
+![ResearchFox](https://cloud.githubusercontent.com/assets/14626242/14433841/cce1a41a-ffc4-11e5-86ae-fb3df5ba0194.png)
 
 # WELCOME to the Open Data Training Program Repository!
 
