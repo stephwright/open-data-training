@@ -1,4 +1,4 @@
-![Research Fox](https://github.com/mozillascience/working-open-workshop/assets/images/science-fox.svg)
+![Research Fox](/images/ResearchFox.svg)
 
 # WELCOME to the Open Data Training Program Repository!
 
