@@ -23,6 +23,6 @@ Mozilla Study Groups are for everyone - we abide by a [set of rules] (https://ww
 
 ### Where can I ask for help? 
 * Go to the Gitter Room: https://gitter.im/mozillascience/open-data-training [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-data-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
-We are a friendly lot and it is a safe place to ask questions and get advice.
+We are a friendly lot and it is a safe place to ask questions and get advice.  
 * Tweet to us [@MozillaScience](https://twitter.com/MozillaScience)
 
