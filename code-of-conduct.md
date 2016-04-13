@@ -62,26 +62,24 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 To report or discuss a suspected violation of this code of conduct by a community member, you may contact any of the team directly and in confidence:
 
-* Abby Cabunoc Mayes
-* Arliss Collins
-* Aurelia Moser
-* Kaitlin Thaney
-* Stephanie Wright
-* Zannah Marsh
+* Abby Cabunoc Mayes: <abby@mozillafoundation.org>
+* Arliss Collins: <arliss@mozillafoundation.org>
+* Aurelia Moser: <aurelia@mozillafoundation.org>
+* Kaitlin Thaney: <kaitlin@mozillafoundation.org>
+* Stephanie Wright: <steph@mozillafoundation.org>
+* Zannah Marsh: <zannah@mozillafoundation.org>
 
 To report or discuss a suspected violation of this code of conduct by a member of the core team, you may contact any of these people in confidence:
 
-Kay Thaney, Director @ Mozilla Science Lab
-email: kay@mozillascience.org
-twitter: @kaythaney
-gitter: https://gitter.im/kaythaney
+Kay Thaney, Director @ Mozilla Science Lab  
+<kaitlin@mozillafoundation.org>  
+twitter: [@kaythaney] (https://twitter.com/kaythaney)  
+gitter: <https://gitter.im/kaythaney>  
 
 10. License and attribution
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
-It is derived from the Citizen Code of Conduct at http://citizencodeofconduct.org/.
-
-Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy, Mozilla Science Lab Code of Conduct and Sidewinder Code of Conduct.
+It is derived from the Citizen Code of Conduct at http://citizencodeofconduct.org/ with portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy, Mozilla Science Lab Code of Conduct and Sidewinder Code of Conduct.
 
 Posted March 21, 2016
