@@ -60,23 +60,23 @@
 *Steph PTO in London 20-22*
 * Begin primer 5
 
-##### WEEK 5: 28-1
+###### WEEK 5: 28-1
 * Finish primer 5
 * Begin module 5
 
 ### JULY
-##### WEEK 1: 4-8
+###### WEEK 1: 4-8
 * Open Data Fundamentals: Full Level 1 workshop at CDL in SF (WEEK 1 or 2?)
   (Steph, Zannah, Christie?)
 * Revise ODF based on feedback from CDL workshop
 
-##### WEEK 2: 11-15
+###### WEEK 2: 11-15
 * Finish module 5 and put into delivery format
 
-##### WEEK 3: 18-22
+###### WEEK 3: 18-22
 * Prep for Nairobi (delivery of materials?)
 
-##### WEEK 4: 25-29
+###### WEEK 4: 25-29
 *Nairobi for Fellows Work Week*
 
 ### AUGUST
@@ -88,7 +88,8 @@
 * Test all level 1 & Assess
 
 ### OCTOBER
-* * Test all level 1 & Assess
+* Test all level 1 & Assess  
+
 ###### WEEK 4: 24-28
 *MozFest in London*
 
@@ -98,7 +99,8 @@
 
 ### DECEMBER
 * Finish write up of level 2 modules
-* Put level 2 modules & primers into delivery format
-##### WEEK 1: 5-9
+* Put level 2 modules & primers into delivery format  
+
+###### WEEK 1: 5-9
 *Work Week in Hawaii*
 
