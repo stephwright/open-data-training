@@ -69,7 +69,7 @@ To report or discuss a suspected violation of this code of conduct by a communit
 * Stephanie Wright: <steph@mozillafoundation.org>
 * Zannah Marsh: <zannah@mozillafoundation.org>
 
-To report or discuss a suspected violation of this code of conduct by a member of the core team, you may contact any of these people in confidence:
+To report or discuss a suspected violation of this code of conduct by a member of the core team, you may contact this person in confidence:
 
 Kay Thaney, Director @ Mozilla Science Lab  
 <kaitlin@mozillafoundation.org>  
