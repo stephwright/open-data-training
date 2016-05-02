@@ -93,7 +93,7 @@ Actually, documenting your data isn’t just good for science and collective hum
 **“It’s so confusing! I don’t know where to start.”**
 We’re here to help! And you don’t have to do all at once. There are lots of simple ways to get started, and we’ve outlined them in the second primer in this series, How to Open Your Data. Take a look and see if there are one or two best practices you can incorporate into your workflow now. 
 
-For 6 more challenges to open data and snappy and convincing responses to each of them, [click here] (https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md). These are great talking points to use when telling your colleagues, friends, and loved ones about open data. 
+For 6 more challenges to open data and snappy and convincing responses to each of them, [click here] (https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md). These are great talking points to use when telling your colleagues, friends, and loved ones about open data.  There are valid concerns about privacy and ethics when it comes to open data.  We will be diving into those topics in future primers.
 
 ## Why does Mozilla <3 open data?
 
