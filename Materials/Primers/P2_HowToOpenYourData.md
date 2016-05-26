@@ -126,7 +126,7 @@ Now that you have a DATA_README and your data is in great shape to meet any pote
 
 ####ADDITIONAL RESOURCES####
 
-#####Glossary#####
+####Glossary:####
 
 **Data dictionary** - a text file defining field names and values (sometimes used interchangeably with the term “codebook”). Includes: a list of all field names, a description of fields & values (e.g. units of measurement, formulas used for calculation, abbreviations, value ranges) as well as the relationship of fields to one another. Example of a data dictionary: http://www.utexas.edu/cola/redcap/_files/data_dictionary_example.jpg
 
@@ -134,12 +134,12 @@ Now that you have a DATA_README and your data is in great shape to meet any pote
 
 **Permanent identifier** - A permanent identifier (or PID) is a set of numbers and/or characters, frequently in the form of a URL, that points to the location of a resource. PIDs are set up in such a way that even though the storage location of the resource may change over time (e.g. moving data from one university server to another), the PID will always point to the correct location. DOI (Digital Object Identifier) is a commonly known type of PID. 
 
-#####Trainings:#####
+####Trainings:####
 * Mozilla Science Lab Open Data Module 2: How to Open Data - *insert link*
 * [Mozilla Science Lab Working Open Workshop Presentation on “Open Data and Data Reuse Plans”](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.g1088c5b110_0_183)
 * [Mozilla Science Lab Working Open Workshop Exercise on “Open Data and Data Reuse Plans”](http://mozillascience.github.io/working-open-workshop/data_reuse/)
 
-#####Information:#####
+####Information:####
 * Digital Curation Centre’s List of Disciplinary Metadata: http://www.dcc.ac.uk/resources/metadata-standards 
 * Research Data Alliance Community-Maintained List of Metadata Schema: http://rd-alliance.github.io/metadata-directory/subjects/ 
 * UK Data Archive Documenting Your Data Overview: http://www.data-archive.ac.uk/create-manage/document 
