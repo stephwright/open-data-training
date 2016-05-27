@@ -2,6 +2,8 @@
 
 # WELCOME to the Open Data Training Program Repository!
 
+## Special huge WELCOME and thank you to those of you joining us through the 2016 Global Sprint! :star2: :tada:
+
 The Mozilla Science Lab is developing an Open Data Training Program.  This repository will be where we build and share our curriculum and resources for open data.
 
 Here's what's been developed so far.
@@ -10,15 +12,15 @@ Here's what's been developed so far.
 * [Exercises] (/Materials/Exercises/)
 * [Handouts] (/Materials/Handouts/)
 
-Feel free to fork, hack, use, do whatever you'd like with these. (See License information below.)
+Our first priority is to create modules based off the Primers linked above so we can expand the network of trainers of open data best practices.
+
+If you'd like to contribute to this project, please check out the [Contribution Guidelines] (CONTRIBUTING.md) for guidelines and tasks specific to this project.  No coding is required!
 
 If you'd like to see our current plan for development of this program, check out our [Roadmap] (/planning/ROADMAP.md). 
 
-If you'd like to help out in development of new or existing open data training resources, check out the [Contribution Guidelines] (CONTRIBUTING.md).
-
 If you are looking for more information on Mozilla Science Lab, please see our [website](https://www.mozillascience.org/).
 
-## Authors
+## Current Authors
 * [Stephanie Wright] (https://github.com/stephwright), Open Data Training Lead, Mozilla Science Lab
 * [Zannah Marsh] (https://github.com/zee-moz), Instructional Designer, Mozilla Science Lab
 
