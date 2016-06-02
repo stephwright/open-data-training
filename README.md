@@ -17,8 +17,8 @@ Our first priority is to create Modules based off the Primers linked above so we
 ## For the Global Sprint:
 We will be working mostly in these Google Docs, just because editing and commenting on a doc is easier that way.  These aren't formal... please feel free to be creative.  They will be refined and "made pretty" in their final format.  If you don't feel comfortable editing directly, feel free to use the "Suggesting" editing mode in the upper right corner of the Google docs.
 * Primer 1: [Why Open Data] (https://docs.google.com/document/d/1_brrnB0unF1vbwaDrxkzndZcj9kmDmyaC6MOTFL6PFM/edit?usp=sharing)
-* Primer 2: [How to Open Your Data] (https://docs.google.com/a/mozilla.com/document/d/15_2QKOJ0VUbdYqsBSMkszw_f3y1uI8vPsfiMt405cjU/edit?usp=sharing) 
-* Primer 3: [Sharing Your Data] (https://docs.google.com/a/mozilla.com/document/d/1--iN0Ycqvy8ymWnUzwd8h5ZEVtQccSzUoZQjc6AY__s/edit?usp=sharing)  
+* Primer 2: [How to Open Your Data] (https://docs.google.com/document/d/15_2QKOJ0VUbdYqsBSMkszw_f3y1uI8vPsfiMt405cjU/edit?usp=sharing) 
+* Primer 3: [Sharing Your Data] (https://docs.google.com/document/d/1--iN0Ycqvy8ymWnUzwd8h5ZEVtQccSzUoZQjc6AY__s/edit?usp=sharing)  
 **Note:** Primer 3 is still in VERY rough draft form and not complete.  Suggestions welcome!
 
 All Modules are in VERY rough form.  Feel free to comment / suggest / hack.
