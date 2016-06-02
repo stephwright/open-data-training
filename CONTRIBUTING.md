@@ -17,6 +17,7 @@ Mozilla Science Lab is dedicated to encouraging the use of open practices and we
   * If you are submitting a **suggestion**, label the issue w/ the ![suggestions](/assets/images/suggestion.png)  label
   * If you are submitting a **question**, label the issue w/ the ![question](/assets/images/question.png)  label
   * If you are submitting a **correction**, label the issue w/ the ![bug](/assets/images/bug.png)  label
+  * Use the Modules and Primers labels for issues related to those two types of resources.
 3. ![Fork icon](/assets/images/Fork.gif)[Fork] (https://help.github.com/articles/fork-a-repo/) this repository to suggest changes to our repository or as a starting point to make your own.
 
 ### What is the Code of Conduct?
