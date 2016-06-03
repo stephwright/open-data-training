@@ -1,7 +1,7 @@
 # TOPICS & DELIVERY METHODS
 
 ### PRIMERS & MODULES
-#### LEVEL 1
+#### LEVEL 1 - Focus on real life examples to highlight advantages of open data / disadvantages of closed data.
 1. Why Open Data
 2. How to Open Your Data
 3. Sharing Your Data
@@ -22,6 +22,7 @@ Topics may be:
   * where to publish
 * Life Sciences
   * mostly quantitative
+  * IRB
   * where to find data
   * physical specimens
   * where to publish
@@ -34,6 +35,7 @@ Topics may be:
   * physical specimens
 * Social Sciences
   * qualitative & quantitative
+  * IRB
   * where to find
   * where to publish
 * Physical Sciences
@@ -49,6 +51,8 @@ More in-depth topics
 * Data visualization
 * Advocacy
 * Preservation & archiving considerations
-* Deep dive into privacy & open data?
+* Deep dive into privacy and ethics in open data
+* Data analysis methods
+* Sharing code (or introduction to this in Level 1?)
 
 
