@@ -15,7 +15,7 @@ Here we're thinking of doing a series of discipline-specific training
 Topics may be:
 * Health Sciences
   * IRB
-  * Privacy / confidentiality
+c
   * Qualitative & quantitative
   * where to find data
   * physical specimens
@@ -29,6 +29,7 @@ Topics may be:
 * Humanities
   * more multimedia forms of data - storage issues
   * publishing considerations
+  * copyright issues
   * qualitative
   * where to find
   * where to publish
@@ -36,12 +37,14 @@ Topics may be:
 * Social Sciences
   * qualitative & quantitative
   * IRB
+  * privacy / confidentiality
   * where to find
   * where to publish
 * Physical Sciences
   * quantitative
   * where to find
   * where to publish
+  * issues / considerations w/ large and/or dynamic data sets
   
   
 * ...
