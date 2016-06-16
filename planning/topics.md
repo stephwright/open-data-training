@@ -15,17 +15,18 @@ Here we're thinking of doing a series of discipline-specific training
 Topics may be:
 * Health Sciences
   * IRB
-c
   * Qualitative & quantitative
   * where to find data
   * physical specimens
   * where to publish
+  * issues / considerations w/ large and/or dynamic data sets
 * Life Sciences
   * mostly quantitative
   * IRB
   * where to find data
   * physical specimens
   * where to publish
+  * issues / considerations w/ large and/or dynamic data sets
 * Humanities
   * more multimedia forms of data - storage issues
   * publishing considerations
