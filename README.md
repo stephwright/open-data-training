@@ -38,6 +38,19 @@ If you are looking for more information on Mozilla Science Lab, please see our [
 * [Stephanie Wright] (https://github.com/stephwright), Open Data Training Lead, Mozilla Science Lab
 * [Zannah Marsh] (https://github.com/zee-moz), Instructional Designer, Mozilla Science Lab
 
+Huge thanks to contributors from 2016 Global Sprint who aren't noted in GitHub because we were working in the Google Docs!
+* [Amel Ghouila] (https://github.com/amelgh)
+* [Dhafer Laouini] (https://github.com/Dhaferl)
+* [Fatma Guerfali] (https://github.com/FatmaZG)
+* [John Kratz] (https://github.com/JEK-III)
+* [Alexander Morley] (https://github.com/alexmorley)
+* [Matthew Marcello] (https://github.com/mmarcello)
+* Natalie Foo
+* Katie Fortney
+* Stephanie Simms
+* [Siwar-BLK] (https://github.com/Siwar-BLK)
+* [zbouslama] (https://github.com/zbouslama)
+
 See also the list of [contributors] (https://github.com/mozillascience/open-data-training/graphs/contributors) who participated in this project.
 
 ## License
