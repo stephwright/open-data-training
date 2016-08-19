@@ -80,6 +80,6 @@ gitter: <https://gitter.im/kaythaney>
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
-It is derived from the Citizen Code of Conduct at http://citizencodeofconduct.org/ with portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy, Mozilla Science Lab Code of Conduct and Sidewinder Code of Conduct.
+It is derived from the [Citizen Code of Conduct] (http://citizencodeofconduct.org/) with portions of text derived from the [Django Code of Conduct] (https://www.djangoproject.com/conduct/reporting/) and the [Geek Feminism Anti-Harassment Policy] (http://geekfeminism.org/about/code-of-conduct/), [Mozilla Science Lab Code of Conduct] (https://science.mozilla.org/code-of-conduct) and [Slidewinder Code of Conduct] (http://www.slidewinder.io/docs/01_code_of_conduct.html).
 
 Posted March 21, 2016
