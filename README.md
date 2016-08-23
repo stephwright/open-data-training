@@ -34,7 +34,7 @@ If you'd like to see our current plan for development of this program, check out
 
 If you are looking for more information on Mozilla Science Lab, please see our [website](https://www.mozillascience.org/).
 
-## Current Authors
+## [Current Authors](#current-authors)
 * [Stephanie Wright] (https://github.com/stephwright), Open Data Training Lead, Mozilla Science Lab
 * [Zannah Marsh] (https://github.com/zee-moz), Instructional Designer, Mozilla Science Lab
 
