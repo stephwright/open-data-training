@@ -17,7 +17,7 @@ If you are looking for more information on Mozilla Science Lab, please see our [
 
 ## [Current Authors](#current-authors)
 * [Stephanie Wright] (https://github.com/stephwright), Program Lead, Mozilla Science Lab
-* [Zannah Marsh] (https://github.com/zee-moz), Instructional Designer, Mozilla Science Lab
+* [Zannah Marsh] (https://github.com/zee-moz), Learning Strategist, Mozilla Science Lab
 
 Huge thanks to contributors from 2016 Global Sprint who aren't noted in GitHub because we were working in the Google Docs!
 * [Amel Ghouila] (https://github.com/amelgh)
